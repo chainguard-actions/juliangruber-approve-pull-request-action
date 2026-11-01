@@ -6,9 +6,9 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v2.1.2 | [`v2.1.2`](https://github.com/chainguard-actions/juliangruber-approve-pull-request-action/tree/v2.1.2) | [`22f010b`](https://github.com/juliangruber/approve-pull-request-action/commit/22f010b57f3836d0201a691b397aa993554849a4) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v2.1.2 | [`v2.1.2`](https://github.com/chainguard-actions/juliangruber-approve-pull-request-action/tree/v2.1.2) | [`22f010b`](https://github.com/juliangruber/approve-pull-request-action/commit/22f010b57f3836d0201a691b397aa993554849a4) | [`HARDENING.md`](https://github.com/chainguard-actions/juliangruber-approve-pull-request-action/blob/v2.1.2/HARDENING.md) |
 
 ## Privacy
 
