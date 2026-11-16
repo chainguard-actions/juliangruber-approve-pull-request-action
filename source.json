@@ -4,8 +4,13 @@
   "version": "v2.1.2",
   "commit_sha": "22f010b57f3836d0201a691b397aa993554849a4",
   "url": "https://github.com/juliangruber/approve-pull-request-action",
-  "policy_sha": "d636be7e43ef829af6e853da6b3c7566db9f72fe",
+  "policy_sha": "374911c4be584df24e6da57af2d990570ef0f859",
   "test_policy_sha": "843adf9e4b8f85d0c08b27b9d0b09dd094b54702",
   "test_agent_version": "2",
-  "harden_agent_version": "2"
+  "harden_agent_version": "2",
+  "dist_artifact": {
+    "gcs_uri": "gs://patch-actions-node-artifacts/dist-artifacts/juliangruber/approve-pull-request-action/v2.1.2/sha256-dfbc47a603982724aa5e6bad3e174d69fa3885db250ba44f33f2f5f9f674a48d.tar.gz",
+    "sha256": "dfbc47a603982724aa5e6bad3e174d69fa3885db250ba44f33f2f5f9f674a48d",
+    "size_bytes": 291041
+  }
 }
